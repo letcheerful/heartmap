@@ -1,4 +1,4 @@
-package letcheerful.heartmap.domain.entity.feeling
+package letcheerful.heartmap.domain.feeling
 
 enum class Category {
     Emotional,
